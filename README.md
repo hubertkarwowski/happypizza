@@ -1,6 +1,6 @@
 
 # Hi there ✋!<br>
-## HappyPizza is website i designed and built from scratch<br>
+## HappyPizza is website i designed and built from scratch🔥<br>
 <div><br>
 <img src="./PizzaShop.png"/>
 <img src="./menu.png"/>
